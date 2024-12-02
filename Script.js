@@ -1,6 +1,6 @@
 document.getElementById('downloadBtn').addEventListener('click', function() {
     // Path to the PDF file you want to allow the user to download
-    var pdfUrl = 'https://www.dropbox.com/scl/fi/evhd6ebuh2n43p4h9aca5/Niraj-Certificate.pdf?rlkey=2sz7ed5b1icpiw3k7j14kjd2y&st=yje9e9v9&dl=1'; // Replace with your PDF file's URL
+    var pdfUrl = 'https://3007.filemail.com/api/file/get?filekey=zheRXlm40fnxf_LBk6l6NlwkQJiFDyevuZ_m13GVaVlwwAgPcIsmc9rwOhqFcGUqy2cbfZegyw&pk_vid=2312c3fb86b2e947173315417796c326'; // Replace with your PDF file's URL
 
     // Trigger the download
     var link = document.createElement('a');
