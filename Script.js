@@ -1,6 +1,6 @@
 document.getElementById('downloadBtn').addEventListener('click', function() {
     // Path to the PDF file you want to allow the user to download
-    var pdfUrl = 'https://3004.filemail.com/api/file/get?filekey=48GNjECG5ZRw5BFA4b4EcetxcRqqwcou4DQHzoN65ffq8auQwSv_c4O9XQTV_LoZDcVpTMF5QRTXp2MlqWXLHahD0g&pk_vid=2312c3fb86b2e947173320448196c326'; // Replace with your PDF file's URL
+    var pdfUrl = 'https://p-def4.pcloud.com/D4ZFfma0GZOEoC8h7ZZZpyyzXkZ2ZZKcJZkZArB0ZJRZJ4ZsYZLO105ZXsVCx2QiQzpqGKYGIeSUSVeFeL27/NPTEL24MG96S55180432203846331.pdf'; // Replace with your PDF file's URL
 
     // Trigger the download
     var link = document.createElement('a');
