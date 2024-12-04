@@ -1,5 +1,5 @@
 /* General Body Styles */
-body {
+/* body {
     font-family: 'Times New Roman', Times, serif;
     position: absolute;
     top: 40%;
@@ -12,10 +12,10 @@ body {
 /* Container Styles */
 .container {
     text-align: center;
-}
+} */
 
 /* Button Styles */
-#downloadBtn {
+/* #downloadBtn {
     transform: translate(-50%, -50%);
     color: white;
     background-color: #3070bf;
@@ -28,8 +28,8 @@ body {
     border: 1px solid #3070bf;
     width: 195.9px;
 }
-@media (max-width: 600px) {
-    body{
+@media (max-width: 600px) { */
+/*     body{
        position: fixed;
         align-items: center;
         width: 0px;
@@ -37,20 +37,20 @@ body {
         left: 47%;
         top: 40%;
         
-    }
-    .container{
+    } */
+/*     .container{
         padding: 0px;
                 
-    }
+    } */
     
-    #downloadBtnon {
+/*     #downloadBtnon {
         
         padding: 6px 10px;
         font-size: 5px;
         
         
     }
-}
-#downloadBtn:focus {
+} */
+/* #downloadBtn:focus {
     outline: none;
-}
+} */
